@@ -1,4 +1,4 @@
-
+Enhance Figma for macOS with custom Panel for Figma for macOS - grid systems and version history, the #1 panel. Includes grid systems and version history for a smoother and more
 
 
 
